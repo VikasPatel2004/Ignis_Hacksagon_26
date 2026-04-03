@@ -1,0 +1,29 @@
+:wq# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+fire_log.txt
+
+# Model weights and large artifacts
+*.pt
+.weights/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# YOLO runs
+runs/
