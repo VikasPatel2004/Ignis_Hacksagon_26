@@ -77,7 +77,7 @@ source venv/Scripts/activate  # Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run the detection service (Port 5000 & 10000)
-python src/detect_fire.py
+python src/drone_stream.py
 ```
 
 ### 4. Direct Links
