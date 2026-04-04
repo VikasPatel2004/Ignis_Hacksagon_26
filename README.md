@@ -1,4 +1,4 @@
-# 🔥 Aeroguard AI (Ignis)
+# Ignis
 ### *Next-Gen Forest Fire Detection & Real-Time Monitoring System*
 
 ---
@@ -6,7 +6,7 @@
 ## 📖 Introduction
 Forest fires represent one of the most significant environmental threats of the 21st century, causing irreversible ecological damage, economic loss, and threatening human lives. Traditional detection methods often rely on manual observation or satellite data that suffers from latency and low resolution in critical early moments.
 
-**Aeroguard AI (Project Ignis)** is a dual-backend, high-performance monitoring ecosystem designed to bridge this gap. By utilizing state-of-the-art **YOLOv8 Computer Vision**, the system identifies smoke and fire patterns in real-time from drone or static camera feeds. Integrated with a live GIS dashboard, it provides decision-makers with immediate, actionable intelligence—transforming raw video data into life-saving alerts and strategic analytics.
+**Ignis is a dual-backend, high-performance monitoring ecosystem designed to bridge this gap. By utilizing state-of-the-art **YOLOv8 Computer Vision**, the system identifies smoke and fire patterns in real-time from drone or static camera feeds. Integrated with a live GIS dashboard, it provides decision-makers with immediate, actionable intelligence—transforming raw video data into life-saving alerts and strategic analytics.
 
 ---
 
