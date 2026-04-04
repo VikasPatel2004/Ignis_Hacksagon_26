@@ -17,7 +17,8 @@ node_modules/
 fire_log.txt
 
 # Model weights and large artifacts
-*.pt
+# *.pt (uncommented to allow yolov8s.pt)
+!yolov8s.pt
 .weights/
 
 # Editor / OS
