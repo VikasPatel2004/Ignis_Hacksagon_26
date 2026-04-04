@@ -46,7 +46,7 @@ export default function Header({ connected, activeAlerts = 8, emergencyMode, onT
             <span className="absolute w-full h-full rounded-full border border-[#ef4444] animate-ping opacity-75"></span>
           </div>
           <span className="font-mono-num text-[11px] font-bold text-[#ef4444] tracking-widest uppercase">
-            {activeAlerts} Alerts
+            {} Alerts
           </span>
         </button>
 
