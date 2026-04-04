@@ -27,3 +27,6 @@ fire_log.txt
 
 # YOLO runs
 runs/
+
+#temporary ignore
+firms_data/
